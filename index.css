@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+
+}
+
+#main {
+    width: 550px;
+    margin: 50px auto;
+}
+
+#hero {
+    border-bottom: 1px solid #2F3E53;
+    width: 446px;
+}
+
+h1 {
+    width: 370px;
+    font-family: 'Karla', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+
+#green {
+    color: #4ADF86;
+}
+
+h4 {
+    color: #D5D4D8;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+#generateBtn {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+    padding: 10px 16px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    background-color: #10B981;
+    border-radius: 5px;
+}
+
+button {
+    width: 211px;
+    height: 39px;
+    color: #55F991;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #273549;
+    margin-top: 35px;
+    margin-right: 24px;
+    border-radius: 5px;
+    border: 0px;
+}
